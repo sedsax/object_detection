@@ -1,0 +1,6 @@
+# YOLOv8 model dosyaları
+yolov8*.pt
+
+venv/
+
+
