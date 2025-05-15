@@ -2,5 +2,6 @@
 yolov8*.pt
 
 venv/
+ultralytics/
 
 
